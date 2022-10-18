@@ -1,4 +1,5 @@
 let chapter = 0;
+
 const buttons = document.getElementById("tools").getElementsByClassName("buttons")[0];
 const nextSlide = document.getElementById("nextSlide");
 const previousSlide = document.getElementById("previousSlide");
