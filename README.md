@@ -5,4 +5,4 @@ Start From index.html page
 
 Source Code: https://github.com/mdibrahimk48/JavaScript-Slider.git
 
-Live Link: 
+Live Link: https://mdibrahimk48.github.io/JavaScript-Slider/ 
